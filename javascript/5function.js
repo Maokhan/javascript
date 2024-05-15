@@ -28,3 +28,8 @@ function calculatecartprice (...num1){
     return console.log(num1)// now we can get mutiple ogrumment in array 
 }
 calculatecartprice(100,3000,2000)
+ 
+// hello ()=> {
+//     console.log("hay");
+// }
+// hello()not work like this
